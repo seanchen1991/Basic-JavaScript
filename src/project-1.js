@@ -1,4 +1,4 @@
-// Do not change any of the funcxtion names
+// Do not change any of the function names
 
 const multiplyByTen = (num) => {
   // return num after multiplying it by ten
